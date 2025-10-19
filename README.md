@@ -1,10 +1,13 @@
 ## 👨🏻‍💻 **Benjamin Basilio Silva**
 
-```Software Engineering```
+```Software Engineering | Back-end```
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,electron,mongodb,tailwind,git,github,ideia,)](https://skillicons.dev)
+### Ferramentas
+[![Ferramentas](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,electron,mongodb,tailwind,git,)](https://skillicons.dev)
 
-### Languages
+### Gostaria aprender:
+[![Futuro](https://skillicons.dev/icons?i=java,kotlin,cs,vue,spring,mysql,idea,unity)](https://skillicons.dev)
+
+### Línguas
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Beginner English
