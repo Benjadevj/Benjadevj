@@ -3,7 +3,7 @@
 ```Software Engineering | Front-end```
 
 ### Languages and Tools:
-[![Languages and Tools:](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,electron,mongodb,tailwind,git,)](https://skillicons.dev)
+[![Languages and Tools:](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,electron,mongodb,tailwind,git,)](https://skillicons.dev)
 
 ### I would like to learn:
 [![Future](https://skillicons.dev/icons?i=java,kotlin,cs,vue,spring,mysql,docker,idea,unity)](https://skillicons.dev)
