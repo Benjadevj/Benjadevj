@@ -1,6 +1,6 @@
-## 👨🏻‍💻 **Benjamin Basilio Silva**
+## 🚀 **Benjamin Basilio Silva**
 
-```Software Engineering | Back-end```
+```Software Engineering | Front-end```
 
 ### Languages and Tools:
 [![Languages and Tools:](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,electron,mongodb,tailwind,git,)](https://skillicons.dev)
