@@ -3,7 +3,7 @@
 ```Software Engineering```
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,mongodb,postgres,,tailwind,,,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,,python,nextjs,react,nodejs,mongodb,postgres,,tailwind,git)](https://skillicons.dev)
 
 
 ### Languages
