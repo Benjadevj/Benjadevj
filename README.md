@@ -13,7 +13,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Benjadevj&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-### Languages
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Beginner English
