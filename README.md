@@ -1,6 +1,6 @@
 ## 🚀 **Benja**
 
-```Software Engineering | Front-end```
+```Software Engineering | Back-end```
 
 ### Linguagens e Ferramentas:
 [![Languages and Tools:](https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,electron,mongodb,tailwind,git,)](https://skillicons.dev)
